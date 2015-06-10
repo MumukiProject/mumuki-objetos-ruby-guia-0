@@ -1,8 +1,11 @@
-describe "anastasia" do
+describe "pepita" do
   it('existe') do
-      expect(!!defined? anastasia).to be true
+      expect(!!defined? pepita).to be true
   end
   it('es un objeto') do
-      expect(anastasia.class).to be Object
+      expect(pepita.class).to be Object
+  end
+  it('anasitasia.cantar! devuelve "pri"') do
+      expect(pepita.cantar!).to eq "pri pri priiiii"
   end
 end
