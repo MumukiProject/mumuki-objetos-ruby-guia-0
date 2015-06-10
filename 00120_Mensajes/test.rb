@@ -1,8 +1,5 @@
-describe "anastasia" do
-  it('existe') do
-      expect(!!defined? anastasia).to be true
-  end
-  it('es un objeto') do
-      expect(anastasia.class).to be Object
+describe "pepita" do
+  it('se le envio el mensaje cantar exactamente una vez') do
+      expect(pepita.canto).to eq 1
   end
 end

@@ -1,3 +1,9 @@
-¡Bien! Pero seguro querrás saber que es todo este asunto del `def`: lo que acabamos de hacer es que entienda el mensaje `cantar!`, usando algo que llamaremos **método**.
+¿Simple no?
 
-Seguínos.
+Bueno, no. Si bien hiciste lo que te pedimos, el código anterior **no anda**. Si lo ejecutarmos veriamos que Ruby nos insulta en mil idiomas:
+
+```ruby
+NoMethodError: undefined method `cantar!' for #<Object:0x007f03ba361130>
+```
+
+Y esto es porque nunca le dijimos a pepita cómo hacer para cantar.

@@ -6,19 +6,4 @@ Así que allá vamos: para decirle a un objeto que resuelva un problema por noso
 pepita.cantar!
 ```
 
-¿Simple no?
-
-Bueno, no tanto. Nunca le dijimos a pepita cómo hacer para cantar. Y si a un objeto le enviamos que no sabe cómo manejar (en objetos decimos: **no entiende el mensaje**), ¡BOOM! Todo se rompe. Y si bien nadie se muere, no nos ayuda a resolver nuestro problema.
-
-La forma correcta de hacer que esto funcione (¡creenos!) es la siguiente:
-
-```ruby
-pepita = Object.new
-def pepita.cantar!
-  "pri pri priiiii"
-end
-
-pepita.cantar!
-```
-
-Probalo en el editor vos mismo.
+Probalo vos mismo: asumiendo que ya creamos a `pepita`, enviale el mensaje `cantar!`.
