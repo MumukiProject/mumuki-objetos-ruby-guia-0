@@ -1,0 +1,1 @@
+Bien, ahora que entendiste como crear objetos, veamos como hacer que hagan cosas por nosotros.

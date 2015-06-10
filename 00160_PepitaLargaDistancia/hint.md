@@ -1,1 +1,0 @@
-Los números entienden el mensaje `abs`, que devuelve su valor absoluto

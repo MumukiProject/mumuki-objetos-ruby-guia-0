@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: anastasia
+  inspection: HasBinding
+- binding: anastasia.cantar!
+  inspection: HasBinding
