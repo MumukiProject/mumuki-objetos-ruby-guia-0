@@ -1,0 +1,1 @@
+En ruby la última línea de un método es lo que retorna. No hay necesidad de decir nada más.

@@ -1,0 +1,1 @@
+anastasia = Mock.new
