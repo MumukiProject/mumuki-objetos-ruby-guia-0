@@ -1,14 +1,17 @@
-Repasemos lo que escribimos:
+Repasemos lo que escribimos: la primera línea ya la entendemos: creamos a pepita.
 
 ```ruby
 pepita = Object.new
+```
 
+Lo nuevo está en las lineas siguientes: definir, dentro de pepita, un método, el método `cantar!`
+
+
+```ruby
 def pepita.cantar!
   "pri pri priiiii"
 end
 ```
-
-La primera línea ya la entendemos: creamos a pepita. Lo nuevo está en las lineas siguientes: definir, dentro de pepita, un método, el método `cantar!`
 
 Un metodo de un objeto es la forma expresar qué queremos que nuestro objeto haga, cuando se envíe un mensaje del mismo nombre (también llamado **selector**).
 
