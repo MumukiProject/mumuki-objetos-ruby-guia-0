@@ -1,5 +1,3 @@
-Bien! La vivacidad de pepita es 15.
+Sí, sí, sabemos que querés saber lo que es el `self`, ahora te contamos pero andá averiguando: ¿qué significa `self` en inglés?
 
-Momento... a los strings le enviamos un mensaje, ¿eso qué significa? ¡Que los strings también son objetos!
-
-Y sí, en un mundo de objetos, todo (o casi todo) será un objeto.
+Y también, notá que tenemos por un lado `vivacidad`, y por el otro `cantar!` y `gritar!`. Hay un motivo por el que unos mensajes terminan en signo de exclamación y otros no. Estamos por descubrirlo.
