@@ -7,17 +7,16 @@ def pepita.canto=canto
 end
 
 canto = Object.new
-  def size
-    @size ||= 0
-    @size += 1
-  end
-  def length
-    @size ||= 0
-    @size += 1
-  end
-  def size_count
-    @size
-  end
+def canto.size
+  @size ||= 0
+  @size += 1
+end
+def canto.length
+  @size ||= 0
+  @size += 1
+end
+def canto.size_count
+  @size
 end
 
 pepita.canto = canto
