@@ -6,11 +6,9 @@ pepita = Object.new
 def pepita.cantar!
   "pri pri priiiii"
 end
-
-pepita.cantar!
 ```
 
-La primera línea ya la entendemos: creamos a pepita. En la última le enviamos un mensaje `cantar!`. Las nuevas son las lineas del medio: definir, dentro de pepita, un método, el método `cantar!`
+La primera línea ya la entendemos: creamos a pepita. Lo nuevo está en las lineas siguientes: definir, dentro de pepita, un método, el método `cantar!`
 
 Un metodo de un objeto es la forma expresar qué queremos que nuestro objeto haga, cuando se envíe un mensaje del mismo nombre (también llamado **selector**).
 
