@@ -1,1 +1,1 @@
-Bien, ahora que entendiste como crear objetos, veamos como hacer que hagan cosas por nosotros.
+Bien, ahora que entendiste cómo crear objetos, veamos cómo lograr que hagan cosas por nosotros.

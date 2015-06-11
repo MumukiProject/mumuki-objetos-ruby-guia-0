@@ -1,4 +1,4 @@
-Ahora queremos saber cuanta energía gastará `pepita` si recorre una cierta distancia, **pero sin recorrerla realmente**, de la siguiente forma:
+Ahora queremos saber cuánta energía gastará `pepita` si recorre una cierta distancia, **pero sin recorrerla realmente**, de la siguiente forma:
 
 ```ruby
 pepita.energia = 300

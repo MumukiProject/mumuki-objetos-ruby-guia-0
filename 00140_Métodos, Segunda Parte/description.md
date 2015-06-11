@@ -13,7 +13,7 @@ def pepita.cantar!
 end
 ```
 
-Un metodo de un objeto es la forma expresar qué queremos que nuestro objeto haga, cuando se envíe un mensaje del mismo nombre (también llamado **selector**).
+Un método de un objeto es la forma de expresar qué queremos que nuestro objeto haga, cuando se envíe un mensaje del mismo nombre (también llamado **selector**).
 
 Y en este caso le estamos diciendo a pepita que, cuando se le envíe el mensaje `cantar!`, devuelva el texto "pri pri priiiii".
 
