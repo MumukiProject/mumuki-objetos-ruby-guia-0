@@ -1,10 +1,8 @@
-Recién hicimos que pepita grite y le preguntamos su vivacidad, pero... ¿no hay algo que les hace ruido?
-
-Antes dijimos que en un mundo de objetos, ibamos a partir los problemas tareas en subproblemas, los cuales los iban a resolver distintos los objetos. Pero acá lo único que realmente resolvió la golondria (el único método que le agregamos) fue `cantar!`.
+Al principio dijimos que en un mundo de objetos, ibamos a partir los problemas tareas en subproblemas, los cuales los iban a resolver distintos los objetos. Pero en el último ejercicio lo único que realmente resolvió la golondria (el único método que le agregamos) fue `cantar!`.
 
 ¿No sería interesante que pepita fuera un poco más inteligente y ella misma resolviera los problemas de gritar y contar su nivel de vivacidad? Al fin y al cabo, pepita tiene toda la información necesaria para hacerlo.
 
-Entonces, ¡allá vamos! Agregemos un método `gritar!` a `pepita`:
+¡Allá vamos! Agregemos un método `gritar!` a `pepita`:
 
 ```ruby
 def pepita.gritar!
