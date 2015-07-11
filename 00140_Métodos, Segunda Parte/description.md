@@ -25,5 +25,5 @@ pepita.cantar!
 
 obtendremos como respuesta `"pri pri priiiii"`
 
-Veamos si se entiende: creá a la golondrina `anastasia`, y hacé que, cuando reciba el mensaje `cantar!`, responda simplemente "pri" (es un poco menos vivaz que pepita...).
+> Veamos si se entiende: creá a la golondrina `anastasia`, y hacé que, cuando reciba el mensaje `cantar!`, responda simplemente "pri" (es un poco menos vivaz que pepita...).
 

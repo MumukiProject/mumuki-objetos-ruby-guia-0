@@ -16,14 +16,14 @@ Y ahora podemos decirle nuestra golondrina que grite, así:
 pepita.gritar!
 ```
 
-¡Ahora te toca a vos! Hacé lo mismo con la vivacidad: agregá un método a `pepita` de forma que en lugar de escribir
-
-```ruby
-pepita.cantar!.size
-```
-
-escribamos
-
-```ruby
-pepita.vivacidad
-```
+> ¡Ahora te toca a vos! Hacé lo mismo con la vivacidad: agregá un método a `pepita` de forma que en lugar de escribir
+>
+>```ruby
+>pepita.cantar!.size
+>```
+>
+>escribamos
+>
+>```ruby
+>pepita.vivacidad
+>```

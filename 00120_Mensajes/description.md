@@ -6,4 +6,4 @@ Así que allá vamos: para decirle a un objeto que resuelva un problema por noso
 pepita.cantar!
 ```
 
-Probalo vos mismo: asumiendo que ya creamos a `pepita`, enviale el mensaje `cantar!`.
+> Probalo vos mismo: asumiendo que ya creamos a `pepita`, enviale el mensaje `cantar!`.

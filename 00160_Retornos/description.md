@@ -18,4 +18,6 @@ pepita.cantar!.upcase
 
 Moraleja, obtenemos `"PRI PRI PRIIIII"`.
 
-Ahora te toca a vos: supongamos que ya tenemos a pepita, y que la vivacidad de una golondrina la obtenemos contando la cantidad de letras de su canto. Averiguá la vivacidad de `pepita`.
+> Ahora te toca a vos: supongamos que ya tenemos a pepita, y que la vivacidad de una golondrina la obtenemos contando la cantidad de letras de su canto.
+>
+> Enviá los mensajes necesarios para averiguar la vivacidad de `pepita`.

@@ -13,4 +13,4 @@ end
 pepita.cantar!
 ```
 
-Probalo en el editor vos mismo.
+> Probalo en el editor vos mismo.

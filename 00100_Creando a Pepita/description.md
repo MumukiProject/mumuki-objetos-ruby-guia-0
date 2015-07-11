@@ -10,4 +10,4 @@ Y lo hacemos de la siguiente forma:
 pepita = Object.new
 ```
 
-¡Probalo vos mismo! Escribí el código anterior en el editor.
+> ¡Probalo vos mismo! Escribí el código anterior en el editor.
