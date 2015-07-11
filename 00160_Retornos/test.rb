@@ -1,5 +1,5 @@
-describe "vivacidad" do
-  it('se le pidio la longitud al carácter') do
+describe "" do
+  it('se le envió al resultados de cantar! el mensaje size (o length)') do
       expect(canto.size_count).to eq 1
   end
 end

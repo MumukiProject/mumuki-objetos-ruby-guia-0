@@ -1,4 +1,4 @@
-describe "vivacidad" do
+describe "" do
   it('pepita entiende vivacidad') do
       expect(pepita.respond_to? :vivacidad).to be true
   end
