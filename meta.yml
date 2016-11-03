@@ -1,5 +1,17 @@
 ---
 name: Introducción objetos en ruby
 locale: es
+type: practice
+beta: false
+teacher_info: 
 language: ruby
-original_id_format: '%05d'
+id_format: '%05d'
+order:
+- 100
+- 110
+- 120
+- 130
+- 140
+- 150
+- 160
+- 170
